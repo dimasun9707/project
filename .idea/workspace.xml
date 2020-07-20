@@ -38,7 +38,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="D:/Программа/Обучение/1-я четверть/7-й урок/homework.py" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Lesson 6/dz1.py" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunManager" selected="Python.dz5">
@@ -116,10 +116,10 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
-    <state x="467" y="121" key="FileChooserDialogImpl" timestamp="1595226147865">
+    <state x="467" y="121" key="FileChooserDialogImpl" timestamp="1595228438557">
       <screen x="0" y="0" width="1366" height="724" />
     </state>
-    <state x="467" y="121" key="FileChooserDialogImpl/0.0.1366.724@0.0.1366.724" timestamp="1595226147865" />
+    <state x="467" y="121" key="FileChooserDialogImpl/0.0.1366.724@0.0.1366.724" timestamp="1595228438557" />
     <state width="1345" height="195" key="GridCell.Tab.0.bottom" timestamp="1595226437478">
       <screen x="0" y="0" width="1366" height="724" />
     </state>
