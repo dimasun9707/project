@@ -14,11 +14,11 @@ from itertools import cycle
 
 class TrafficLight:
     def __init__(self):
-        self.__color = (('Red', 5), ('Yellow', 2), ('Green', 4))
+        self.__color = (('Красный', 7), ('Желтый', 2), ('Зеленый', 5))
 
     def running(self):
         for color, sec in cycle(self.__color):
-            print(color, '(wait {} sec)'.format(sec))
+            print(color.format(sec))
             sleep(sec)
 
 traffic_light = TrafficLight()
